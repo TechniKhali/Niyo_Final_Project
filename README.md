@@ -11,25 +11,25 @@ Analysis types: Descriptive
 - [Python](#python)
 - [Visualisation](#visualisation)
 
-# Spreadsheets
+## Spreadsheets
 
 | Project | Description | Excel Functions Learned|
 |---|---|---|
 | [Microsoft Excel](https://github.com/TechniKhali/Niyo_Excel) | INSERT TEXT HERE |  Data cleaning, pivot tables, SUM, VLOOKUP, XLOOKUP, HLOOKUP, IF, COUNTIF, MAX/MIN, UNIQUE, COUNTA | 
 
-# SQL
+## SQL
 
 | Project | Description | SQL Functions Learned|
 |---|---|---|
 | [Microsoft SQL Server](https://github.com/TechniKhali/Niyo_SQL) | INSERT TEXT HERE | Aggregations, Joins, Window functions, GROUP BY, ORDER BY, LIKE, CASE WHEN, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation |  
 
-# Python
+## Python
 
 | Project | Description | Python Functions Learned|
 |---|---|---|
 | [Google Colab](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | INSERT TEXT HERE pandas, numpy, matplotlib, seaborn | Data cleaning, wrangling, visualisation, analysis. |  
 
-# Visualisation
+## Visualisation
 
 | Project | Description | Visualisation Functions Learned|
 |---|---|---|
