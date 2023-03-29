@@ -35,4 +35,4 @@ Analysis types: Descriptive
 |---|---|---|
 | [Microsoft Power BI](https://github.com/TechniKhali/Power_BI_Niyo) | Creating a simple dashboard that could amalgamte my explorations with the above tools into something my audience could experience coherently. | Aggregations, Joins, Window functions, GROUP BY, ORDER BY, LIKE, CASE WHEN, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation |  
 
-[Datasets Used](https://github.com/TechniKhali/Datasets)
+<sub>[Datasets Used](https://github.com/TechniKhali/Datasets)</sub>
